@@ -1,2 +1,2 @@
 # practice_python
-Practice python.
+Python 勉強用
